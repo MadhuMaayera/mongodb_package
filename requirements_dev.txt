@@ -1,0 +1,17 @@
+pymongo
+pymongo[srv]
+dnspython
+pandas
+numpy
+ensure
+pytest
+
+#dev requirements -
+
+ pytest==
+ tox==
+ black==
+ flake8==4.2.1
+ mypy==
+
+-e .
